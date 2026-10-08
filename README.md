@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dinaMadelen
-- Second year cybernetics and robotics student
+- Fifth year cybernetics and robotics student
 
 <!---
 dinaMadelen/dinaMadelen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
